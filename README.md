@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **shindyhh@gmail.com**
 
-<h3 align="left">Checkout my portfolio:</h3> <h2>https://shindyhh.github.io/portfolio/</h2>
+<h3 align="left">Checkout my portfolio:</h3>
+<p>https://shindyhh.github.io/portfolio/</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
