@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **shindyhh@gmail.com**
 
+<h3 align="left">Checkout my portfolio:</h3> <h2>https://shindyhh.github.io/portfolio/</h2>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/babashinji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shindy baba" height="30" width="40" /></a>
