@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shindyhh" alt="shindyhh" /></a> </p>
 
-- 📫 How to reach me: **shindyhh@gmail.com**
-
 <h3 align="left">Checkout my portfolio:</h3>
 <p>https://shindyhh.github.io/portfolio/</p>
 
