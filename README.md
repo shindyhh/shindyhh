@@ -20,4 +20,4 @@
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=shindyhh&show_icons=true&locale=en" alt="shindyhh" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shindyhh&" alt="shindyhh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shindyhh&" alt="shindyhh" /></p>
