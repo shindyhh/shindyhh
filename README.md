@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shindyhh&label=Profile%20views&color=0e75b6&style=flat" alt="shindyhh" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shindyhh&row=2&column=3" alt="shindyhh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shindyhh&row=2&column=3&margin-w=15&margin-h=15" alt="shindyhh" /></a> </p>
 
 <h3 align="left">Checkout my portfolio:</h3>
 <p>https://shindyhh.github.io/portfolio/</p>
