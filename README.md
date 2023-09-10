@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shindyhh&row=2&column=3&margin-w=15&margin-h=15" alt="shindyhh" /></a> </p>
 
 <h3 align="center">Checkout my portfolio:</h3>
-<p>https://shindyhh.github.io/portfolio/</p>
+<p align="center">https://shindyhh.github.io/portfolio/</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
